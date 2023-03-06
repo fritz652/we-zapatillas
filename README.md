@@ -23,3 +23,5 @@ git checkout master <!-- Este  git sirve para ir a la rama principal o rama maes
 11. git banch -d nombre-de-la-rama <!-- Este git sirve para eliminar una rama , antes de eliminarla siempre es bueno  solo escribir git branch para saber en que rama se esta, y saber que rama se va a eliminar-->
 
 12. git push <!--  con este git lo que se hace es subir al repositorio en la nuve, pero antes se tiene que agregar el git add . y el git commit -m "comentario" y luego simplemente el git push  -->
+
+<!-- Estos son lo principales gits que debes tener simpre presnete, gracias Fritz. -->
