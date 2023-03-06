@@ -21,3 +21,5 @@ git reset . <!-- Este git sirve para desacer lo que se hizo ultimo, es el equiva
 git checkout master <!-- Este  git sirve para ir a la rama principal o rama maestra, siempre se debe estar en la rama maestra para fusionar o hacer el marge (union)-->
 
 11. git banch -d nombre-de-la-rama <!-- Este git sirve para eliminar una rama , antes de eliminarla siempre es bueno  solo escribir git branch para saber en que rama se esta, y saber que rama se va a eliminar-->
+
+12. git push <!--  con este git lo que se hace es subir al repositorio en la nuve, pero antes se tiene que agregar el git add . y el git commit -m "comentario" y luego simplemente el git push  -->
