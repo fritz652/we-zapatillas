@@ -16,4 +16,6 @@ git reset . <!-- Este git sirve para desacer lo que se hizo ultimo, es el equiva
 
 8. git checout -b nombre-de-la-rama <!-- este git sirve para crear una rama y emepzar a trabajar en ella -->
 
-9. git branch <!-- Sirve apra ver en que rama se esta trabajando. -->
+9. git branch <!-- Sirve para ver en que rama se esta trabajando. -->
+
+10. git checout master <!-- Este  git sirve para ir a la rama principal o rama maestra-->
