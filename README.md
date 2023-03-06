@@ -10,6 +10,6 @@ git reset . <!-- Este git sirve para desacer lo que se hizo ultimo, es el equiva
 
 5- git checkout -- . <!-- sirve para restaurar el commit al ultimo repositorio que se subio -->
 
-6-  git log <!-- Es como el historial de los commit, al ejecurtarlo se visualizaran  el nombre d etood los commit guardados eb el repositorio -->
+6-  git log <!-- Es como el historial de una rama, al ejecurtarlo se visualizaran  el nombre de los cambios gusradados en la rama -->
 
 7- git commit --amend <!-- Sirve par acorreguir errore sen el ultimo commit generado, como el nombre del commit por ejemplo, una vez que cmabias el nombre debes presionar: scape, luedo dos puntos y escrubir wq! y asi saldra de la edición y volvera al terminal par aescribir commits-->
