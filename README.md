@@ -28,6 +28,6 @@ git checkout master     :    Este  git sirve para ir a la rama principal o rama 
 
 
 videos: 
-a.  https://www.youtube.com/watch?v=bcT8BZj7KUg
-b.  https://www.youtube.com/watch?v=tFr0Vg1q9Eg&t=336s
-c.  https://www.youtube.com/watch?v=iT4UOkyI09k 
+1.  https://www.youtube.com/watch?v=bcT8BZj7KUg
+2.  https://www.youtube.com/watch?v=tFr0Vg1q9Eg&t=336s
+3.  https://www.youtube.com/watch?v=iT4UOkyI09k 
