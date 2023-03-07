@@ -31,3 +31,10 @@ videos:
 1.  https://www.youtube.com/watch?v=bcT8BZj7KUg
 2.  https://www.youtube.com/watch?v=tFr0Vg1q9Eg&t=336s
 3.  https://www.youtube.com/watch?v=iT4UOkyI09k 
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+PROFUNDIZANDO CONOCIMIENTOS EN GIT:
+
+1. git show   : sirve apra mostrar todo el historial de los commit
