@@ -37,4 +37,5 @@ videos:
 
 PROFUNDIZANDO CONOCIMIENTOS EN GIT:
 
-1. git show   : sirve apra mostrar todo el historial de los commit
+1. git show   : sirve para mostrar todo el historial de los commit
+2. git diff  versiondecomitt123  versionde commit 4567 : este comando seguido de unos codigos sirve para comparar las diferencias de versiones, antes de debe ejecutar  gif show  para  ver las versiones y asi poder elegir las que se va acomparar.
